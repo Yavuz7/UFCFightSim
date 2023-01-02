@@ -8,7 +8,7 @@ The website allows users to:
 2. Create loadouts of 3 fighters
     -Select from a pool of the best UFC fighters
     -Select a special move for each fighter to use along side their normal moves
-3. Enter Into Lobbies of 2 to fight it out
+3. Enter into lobbies of 2 to fight it out
     -Battles are turn based
     -Battles go until one players set of fighters is knocked out
     -Fighter Stats are scaled off of real world fighter data
@@ -16,7 +16,7 @@ The website allows users to:
     -Achievement System
 4. User profile page 
     -Tracks Wins, Loses, Currency, and Team Loadout
-5. Forum Page
-6. Shop Page 
+5. Forum page
+6. Shop page 
     -Unlock Fighters with currency from rounds
 
