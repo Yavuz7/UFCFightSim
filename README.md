@@ -6,9 +6,11 @@ This project is a website that our team created using Rabbitmq, Apache, Html, PH
 The website allows users to:
 1. Create accounts 
 2. Create loadouts of 3 fighters
+
     -Select from a pool of the best UFC fighters
     -Select a special move for each fighter to use along side their normal moves
 3. Enter into lobbies of 2 to fight it out
+
     -Battles are turn based
     -Battles go until one players set of fighters is knocked out
     -Fighter Stats are scaled off of real world fighter data
